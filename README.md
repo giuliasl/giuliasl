@@ -1,7 +1,7 @@
 ### Olá, Sou a Giulia Lima 🙃
 
 - 🔭 Atualmente trabalhando com Redes de Computadores
-- 🌱 Estudando Front-End
+- 🌱 Estudando Cibersegurança
 - 📫 Meu Email: giuliasantoslima6@gmail.com
 
 <div align="center">
